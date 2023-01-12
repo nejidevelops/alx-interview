@@ -21,4 +21,4 @@ def minOperations(n):
             div += 1
         minOp += div
         n = int(n / div)
-    return 
+    return minOp
